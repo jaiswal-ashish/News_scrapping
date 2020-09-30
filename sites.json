@@ -1,0 +1,11 @@
+{
+  "CNN": {
+    "link": "https://edition.cnn.com/"
+  },
+  "Reuters": {
+    "link": "https://www.reuters.com/places/india/"
+  },
+  "HT": {
+    "link": "https://www.hindustantimes.com/"
+  }
+}
